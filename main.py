@@ -35,9 +35,9 @@ phrases = [
 ]
 
 class Choice(enum.Enum):
-rock = 1
-paper = 2
-scissors = 3
+    rock = 1
+    paper = 2 
+    scissors = 3
 
 def beats(self, other):
     if self == Choice.rock:
