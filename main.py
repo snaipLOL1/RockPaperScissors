@@ -1,13 +1,13 @@
----------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 /_/\ 🌐 This module was loaded through https://t.me/hikkamods_bot
 ( o.o ) 🔐 Licensed under the GNU AGPLv3.
 > ^ < ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
----------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 Name: rockpaperscissors
 Author: hikariatama
 Commands:
 .rockpaperscissors | .rps
----------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------
 
 version = (2, 0, 0)
 
