@@ -48,11 +48,11 @@ def beats(self, other):
         return other == Choice.paper
 
 
-class Game:
-def init(self, player1, player2):
-self.player1 = player1
-self.player2 = player2
-self.result = None
+class Game 
+    def __init__(self, player1, player2):
+        self.player1 = player1
+        self.player2 = player2
+        self.result = None
 
 def play(self, player1_choice, player2_choice):
     if player1_choice == player2_choice:
