@@ -1,12 +1,12 @@
 #---------------------------------------------------------------------------------
-/_/\ 🌐 This module was loaded through https://t.me/hikkamods_bot
-( o.o ) 🔐 Licensed under the GNU AGPLv3.
-> ^ < ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
+#/_/\ 🌐 This module was loaded through https://t.me/hikkamods_bot
+#( o.o ) 🔐 Licensed under the GNU AGPLv3.
+#> ^ < ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
 #---------------------------------------------------------------------------------
-Name: rockpaperscissors
-Author: hikariatama
-Commands:
-.rockpaperscissors | .rps
+#Name: rockpaperscissors
+#Author: hikariatama
+#Commands:
+#.rockpaperscissors | .rps
 #---------------------------------------------------------------------------------
 
 version = (2, 0, 0)
@@ -17,12 +17,12 @@ version = (2, 0, 0)
 https://t.me/hikariatama
 🔒 Licensed under the GNU AGPLv3
 🌐 https://www.gnu.org/licenses/agpl-3.0.html
-meta pic: https://static.dan.tatar/rockpaperscissors_icon.png
-meta banner: https://mods.hikariatama.ru/badges/rockpaperscissors.jpg
-meta developer: @hikarimods
-scope: inline
-scope: hikka_only
-scope: hikka_min 1.2.10
+#meta pic: https://static.dan.tatar/rockpaperscissors_icon.png
+#meta banner: https://mods.hikariatama.ru/badges/rockpaperscissors.jpg
+#meta developer: @hikarimods
+#scope: inline
+#scope: hikka_only
+#scope: hikka_min 1.2.10
 
 import copy
 import enum
